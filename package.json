@@ -1,6 +1,6 @@
 {
   "name": "antigravity-cortex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The intelligent .agents kit that makes AI coding agents actually think before they code.",
   "bin": {
     "antigravity-cortex": "./bin/init.js"
