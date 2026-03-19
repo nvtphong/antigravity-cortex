@@ -1,0 +1,39 @@
+{
+  "name": "antigravity-cortex",
+  "version": "1.0.0",
+  "description": "The intelligent .agents kit that makes AI coding agents actually think before they code.",
+  "bin": {
+    "antigravity-cortex": "./bin/init.js"
+  },
+  "files": [
+    "bin/",
+    ".agents/",
+    "README.md",
+    "LICENSE",
+    "CONTRIBUTING.md"
+  ],
+  "keywords": [
+    "agents",
+    "ai",
+    "coding-assistant",
+    "prompt-engineering",
+    "antigravity",
+    "gemini",
+    "dotfiles-agents",
+    "workflows",
+    "rules",
+    "skills",
+    "code-review",
+    "debugging"
+  ],
+  "author": "nvtphong",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nvtphong/antigravity-cortex.git"
+  },
+  "homepage": "https://github.com/nvtphong/antigravity-cortex#readme",
+  "bugs": {
+    "url": "https://github.com/nvtphong/antigravity-cortex/issues"
+  }
+}
